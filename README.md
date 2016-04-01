@@ -1,0 +1,1 @@
+# joes-scout-spot
