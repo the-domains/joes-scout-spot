@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Joes Scout Spot]]></title>
+        <description><![CDATA[Joes Scout Spot]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Apr 2016 13:13:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sallins Scouts Water day]]></title>
+            <description><![CDATA[<article><h1>Sallins Scouts Water day</h1><p>SALLINS SCOUT GROUP - BIG WATER DAY - 2ND APRIL 2016</p></article>]]></description>
+            <link>undefinedsallins-scouts-water-day/index.html</link>
+            <guid isPermaLink="false">77787f84-3ebc-4687-af38-910b9205f139</guid>
+            <pubDate>Fri, 01 Apr 2016 13:13:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
